@@ -1,0 +1,10 @@
+PODS:
+  - OCCalendar (0.0.3)
+
+DEPENDENCIES:
+  - OCCalendar (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  OCCalendar: 008313dd9d19feeb22f5fe503a8e08963db3ae7c
+
+COCOAPODS: 0.29.0
